@@ -48,3 +48,10 @@ To set up the project locally, follow these steps:
 Ensure you have a web browser installed (e.g., Chrome, Firefox).
 Clone the repository using the command above.
 Open index.html directly in your browser.
+
+ScreenShort
+
+![image](https://github.com/user-attachments/assets/53731e7b-48d3-41a1-8da0-027f1d32cac8)
+
+
+
